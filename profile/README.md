@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="logo.png" width="200">
+  <img src="logo.png" width="600">
 </p>
 
-#MED-IPLAB
+# MED-IPLAB
 
 We are a research laboratory at Department of Mathematics and Computer Science at University of Catania focused on Medical Imaging, with particular emphasis on brain analysis using deep learning.
 
